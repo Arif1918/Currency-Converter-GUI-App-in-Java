@@ -7,7 +7,7 @@
 <img src="Images/GUI_Interface.png">
 
 ## API Information
-[https://api.apilayer.com/exchangerates_data](https://apilayer.com/marketplace/exchangerates_data-api)
+https://apilayer.com/marketplace/exchangerates_data-api
 
 ## Use Information
 
